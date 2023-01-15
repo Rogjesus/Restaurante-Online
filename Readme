@@ -1,0 +1,15 @@
+Este é um site de restaurante simples criado com HTML, CSS e JavaScript. O objetivo deste site é apresentar informações sobre o restaurante, incluindo o menu, horários de funcionamento, localização e detalhes de contato.
+
+Funcionalidades
+Página inicial com informações gerais sobre o restaurante, incluindo horários de funcionamento, localização e detalhes de contato.
+Página de menu com uma lista de pratos disponíveis, incluindo imagens e sequências.
+Página de reservas onde os usuários podem selecionar uma data e hora para reservar uma mesa.
+Página de contato onde os usuários podem enviar uma mensagem para o restaurante.
+
+Tecnologias utilizadas
+HTML: Utilizado para estruturar o conteúdo do site.
+CSS: Utilizado para estilizar o site e torná-lo mais atraente visualmente.
+JavaScript: Utilizado para adicionar interatividade ao site, como funcionalidade de reservas.
+
+Instalação
+Para executar o site localmente, você precisará baixar ou clonar este repositório em sua máquina. Em seguida, abra o arquivo index.htmlem seu navegado
